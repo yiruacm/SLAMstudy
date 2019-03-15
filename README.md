@@ -1,2 +1,2 @@
 # SLAMstudy
-我的SLAM学习记录
+slambook是《视觉SLAM十四讲》代码，大部分本地运行通过。

@@ -1,0 +1,6 @@
+/home/ocetest/C/slambook/ch2/CMakeFiles/rebuild_cache.dir
+/home/ocetest/C/slambook/ch2/CMakeFiles/edit_cache.dir
+/home/ocetest/C/slambook/ch2/CMakeFiles/useHello.dir
+/home/ocetest/C/slambook/ch2/CMakeFiles/hello_shared.dir
+/home/ocetest/C/slambook/ch2/CMakeFiles/helloSLAM.dir
+/home/ocetest/C/slambook/ch2/CMakeFiles/hello.dir
